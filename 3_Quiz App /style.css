@@ -68,8 +68,7 @@ body {
 }
 
 .correct {
-	/* background: #9aeabc; */
-	background: red;
+	background: #9aeabc;
 }
 
 .incorrect {
